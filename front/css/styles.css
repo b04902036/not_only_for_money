@@ -1,3 +1,12 @@
 label {
 	display: block;
 }
+.register {
+	margin: auto;
+	width: 30%;
+	border: 3px solid green;
+	padding: 10px;
+}
+.register input {
+	position:relative;
+}
